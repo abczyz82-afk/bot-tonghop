@@ -1,4 +1,3 @@
 streamlit
-vnstock3
+yfinance
 google-generativeai
-ipython
